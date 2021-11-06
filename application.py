@@ -1,3 +1,1 @@
-print('Some string')
-print('Must heave')
-'Ты продвигаешься! Молодец!'
+<I know how geting more knowledge>
